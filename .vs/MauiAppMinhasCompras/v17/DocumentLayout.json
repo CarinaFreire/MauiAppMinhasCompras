@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "MauiAppMinhasCompras\\Views\\NovoProduto.xaml.cs",
               "ToolTip": "C:\\Users\\carin\\source\\repos\\MauiAppMinhasCompras\\MauiAppMinhasCompras\\Views\\NovoProduto.xaml.cs",
               "RelativeToolTip": "MauiAppMinhasCompras\\Views\\NovoProduto.xaml.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAA6wBMAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwBMAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-22T03:31:21.04Z",
               "EditorCaption": ""
@@ -55,8 +55,7 @@
               "RelativeToolTip": "MauiAppMinhasCompras\\Views\\NovoProduto.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-08-22T03:23:02.272Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-22T03:23:02.272Z"
             },
             {
               "$type": "Document",
@@ -68,8 +67,7 @@
               "RelativeToolTip": "MauiAppMinhasCompras\\Views\\ListaProduto.xaml.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAxwA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T03:15:18.546Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-22T03:15:18.546Z"
             },
             {
               "$type": "Document",
@@ -81,8 +79,7 @@
               "RelativeToolTip": "MauiAppMinhasCompras\\Views\\ListaProduto.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-08-22T03:15:03.132Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-22T03:15:03.132Z"
             },
             {
               "$type": "Document",
@@ -94,8 +91,7 @@
               "RelativeToolTip": "MauiAppMinhasCompras\\App.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T02:50:37.833Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-22T02:50:37.833Z"
             }
           ]
         }
