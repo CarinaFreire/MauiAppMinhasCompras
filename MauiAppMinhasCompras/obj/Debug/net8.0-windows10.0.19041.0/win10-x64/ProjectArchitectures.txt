@@ -1,0 +1,1 @@
+C:\Users\carin\source\repos\MauiAppMinhasCompras\MauiAppMinhasCompras\MauiAppMinhasCompras.csproj;x64
